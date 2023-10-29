@@ -1,2 +1,2 @@
 # scripts
-The scripts for each guest
+The scripts for each guest.
